@@ -1,0 +1,122 @@
+[
+  {
+    "id": "txn-001",
+    "name": "Apple",
+    "description": "App Store Purchase",
+    "amount": -4.99,
+    "type": "Credit",
+    "date": "2025-04-01T14:32:00",
+    "icon": "apple",
+    "iconLib": "brands",
+    "isPending": false,
+    "authorizedUser": null
+  },
+  {
+    "id": "txn-002",
+    "name": "IKEA",
+    "description": "Home Furniture",
+    "amount": -312.50,
+    "type": "Credit",
+    "date": "2025-03-28T09:15:00",
+    "icon": "couch",
+    "iconLib": "solid",
+    "isPending": true,
+    "authorizedUser": null
+  },
+  {
+    "id": "txn-003",
+    "name": "Payment Received",
+    "description": "Monthly Payment",
+    "amount": 174.00,
+    "type": "Payment",
+    "date": "2025-03-27T18:00:00",
+    "icon": "money-bill-wave",
+    "iconLib": "solid",
+    "isPending": false,
+    "authorizedUser": null
+  },
+  {
+    "id": "txn-004",
+    "name": "Starbucks",
+    "description": "Coffee & Snacks",
+    "amount": -7.85,
+    "type": "Credit",
+    "date": "2025-04-01T08:10:00",
+    "icon": "mug-hot",
+    "iconLib": "solid",
+    "isPending": false,
+    "authorizedUser": "Diana"
+  },
+  {
+    "id": "txn-005",
+    "name": "Netflix",
+    "description": "Monthly Subscription",
+    "amount": -15.99,
+    "type": "Credit",
+    "date": "2025-03-15T00:00:00",
+    "icon": "tv",
+    "iconLib": "solid",
+    "isPending": false,
+    "authorizedUser": null
+  },
+  {
+    "id": "txn-006",
+    "name": "Amazon",
+    "description": "Prime Order",
+    "amount": -89.99,
+    "type": "Credit",
+    "date": "2025-03-31T11:45:00",
+    "icon": "box",
+    "iconLib": "solid",
+    "isPending": true,
+    "authorizedUser": "Marcus"
+  },
+  {
+    "id": "txn-007",
+    "name": "Uber Eats",
+    "description": "Food Delivery",
+    "amount": -34.20,
+    "type": "Credit",
+    "date": "2025-03-30T20:33:00",
+    "icon": "utensils",
+    "iconLib": "solid",
+    "isPending": false,
+    "authorizedUser": null
+  },
+  {
+    "id": "txn-008",
+    "name": "Spotify",
+    "description": "Premium Subscription",
+    "amount": -9.99,
+    "type": "Credit",
+    "date": "2025-02-14T00:00:00",
+    "icon": "music",
+    "iconLib": "solid",
+    "isPending": false,
+    "authorizedUser": null
+  },
+  {
+    "id": "txn-009",
+    "name": "Shell Gas",
+    "description": "Fuel Fill-up",
+    "amount": -62.40,
+    "type": "Credit",
+    "date": "2025-03-29T07:22:00",
+    "icon": "gas-pump",
+    "iconLib": "solid",
+    "isPending": false,
+    "authorizedUser": "Diana"
+  },
+  {
+    "id": "txn-010",
+    "name": "Payment Received",
+    "description": "Balance Transfer",
+    "amount": 500.00,
+    "type": "Payment",
+    "date": "2025-01-10T12:00:00",
+    "icon": "right-to-bracket",
+    "iconLib": "solid",
+    "isPending": false,
+    "authorizedUser": null
+  }
+]
